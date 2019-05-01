@@ -173,5 +173,43 @@ Computational math -
 
 
 
+may 1st 
+Rewrite mergesort using loops
+with same strategy as MS, spare computer the top down sep, handle BU evaluation only 
+Human+Computer : chess 
+
+Rec: book keep effort by computer 
+top down separation: use lots of system stacks/ spaces
+to keep the evidence : bad for computer good for humans 
+bottom-up merging : computer good
+1-element array is sorted :
+L: enlarge L to 2^m, 2^m-1 < L <=2^m
+first merge 1-element "arrays"
+next: mergee 2nd elemtn array 
+next- merge 4 elements arrays
+next: mergee 2^n element 
+top loop-log(n)
+lower loop: O(n)
+0(n log n)
+
+edit distance (DP):coarse 
+hte: 
+1. the (1 reversal); 
+2. hate (one insertion)
+3. he (delete) 4. hoe 
+which is most likely to use ) 
+science - popularity of the word 
+google tren : stats/ Basian Based
+
+1. edit distance 10s 100s of choices with small 1,2
+2. popularity/frequency 
+
+aet: tea (too long, 4)
+at: 1 deletion
+editing action: delete , insert, replace 
+
+look at w11-- sure in midterm - legal and security responsibilities 
+
+
 
 
