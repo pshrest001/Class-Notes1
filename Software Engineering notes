@@ -74,6 +74,28 @@ anyone can complain (reasonable)
   cheaters ;; succ cheating human eyes ( visual system )
   cheat human ears 
   
+  LOSSY vs LOSSLESS: quantization step
+  0-255: gray scale
+  color- 3byte:
+  # of digital colors- R,G,B
+  each comp - 8 bits 
+  256^3 --16.7 million digital colors-- most of them are waste 
+  24 bits for each color image pixel
+  16 bits to make people happy (cheat 99.9% human)
+  16/24
+  2/3
+  3M: 2M
+  --lossy :(125, 200,200) not recoverable 
+           (124, 198,198)
+           
+           music--wav(avi) mp3: stat red
+           exploit human ear's weakness 
+           listen of loud sound 
+  
+  for human eyes # of colors we can distinguish :
+  colorblind : normal 
+  
+  
   pass the judgment of human being ; jpg 
   jpg 2000- wavelets, phycics stars -- cheat human ears(adutory system)
   lossy 
