@@ -203,13 +203,15 @@ google tren : stats/ Basian Based
 
 1. edit distance 10s 100s of choices with small 1,2
 2. popularity/frequency 
+No cheating : 
+greedy algorithm ;summarize
+best choice in the current step (locally best ) 
+
 
 aet: tea (too long, 4)
 at: 1 deletion
 editing action: delete , insert, replace 
 
 look at w11-- sure in midterm - legal and security responsibilities 
-
-
 
 
