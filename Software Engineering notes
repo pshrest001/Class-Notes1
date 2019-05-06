@@ -1,1 +1,86 @@
+horseracing : 25 horses find champion 
+most fair 
+
+5-lane trucks 
+top 3 in the non-controversial manner 
+timing : horse not right 
+algorithm _--- plan the race 
+
+minimize the number of races 
+
+5 runs --- heats ( 5 groups, eachgroup has 5 horses ; each has 5:5 heat champ 
+5 races 
+hot to decide g/s/b medals 
+next 
+No.6 race is heat-champion race : 
+HCs run : 
+top 3 in this heat champion race (no. 6)claim gold dilver bronze medal 
+anyone can complain (reasonable) 
+ eill get gold medal ? fair reward gold 
+ who should get silver medal ? no 1 in heat 3 
+ no 2 in heat 3 may complain 
+ give this guy one more opp
+ 
+ No. 2 in Race 6 silver
+ 22 ccny professor, 3 oly champion 
+ 1 in heat 3
+ 2 in heat 4 
+ 
+ No 7 race: 
+ decide s/ b -- will not cause any complaints 
+ race 6 : 2 3 (2)
+ 3 more potential whiners: in heat (gold): NO. 2 , No.3 
+ 1 left : No.2 (in heat) of no.2 in Race 
+ 
+ how to detect cheating : 
+  asmt1.py: jed(cheater)
+  asmt1.py : jane (creater) -- to be careful, watermark 
+  
+  taboo list : dont use real dirty word (fake) 
+  
+  gzip/compress/zip/winzip: dictionary based compression 
+  assign short code /index to popular terms 
+  huffman : entopy 
+  Shannon's1st axiom: 
+  assign shoter codes to those more popular signals 
+  huffman algorithm 
+  .gz, .z, .zip 
+  cuny : 4 ascii : 4 bytes 
+  
+  compression: data redundance 
+  gaussian 
+  rand (256, 256); meaningless image 
+  human face : lots of structure (spatial redumm)
+  human skin color : small sub set of all digital colors 
+  
+  
+  width height of a picture 
+  256*256 gray scale image : how many difference digital pictures 
+  we can have in theory ? 
+  # of pixels 256* 256 
+  256*256*256= 256^3
+  (256)^(256*256) 
+  
+  counting : 
+  pixels -one byte (8 bit: 0-255) 
+  
+  image compression : 1000+ 
+  300 pic 70% 
+  25% 
+  loss less : gzip/wiinzip: jpeg, png/tiff, medical image 
+  CS/EE/phycis /math : IP lossy 
+  medical/ legal/ lawyers office : lossless dicom
+  lossy compression : 
+  cheaters ;; succ cheating human eyes ( visual system )
+  cheat human ears 
+  
+  pass the judgment of human being ; jpg 
+  jpg 2000- wavelets, phycics stars -- cheat human ears(adutory system)
+  lossy 
+  jpg, gif, (png - not compressed) 
+  
+  
+  
+ 
+ 
 
