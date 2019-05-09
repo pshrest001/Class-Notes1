@@ -38,6 +38,7 @@ anyone can complain (reasonable)
   
   taboo list : dont use real dirty word (fake) 
   
+  
   gzip/compress/zip/winzip: dictionary based compression 
   assign short code /index to popular terms 
   huffman : entopy 
@@ -102,7 +103,78 @@ anyone can complain (reasonable)
   jpg, gif, (png - not compressed) 
   
   
+  Lossy compression : quantizization 
+  scalar quantization : 1number-> another number 
+  vector quantization : (r,g,b) -> (r1, g1, b1) 
+  (10,0,0)-> (3,3,4) -bad quant 
+  (200,100,100)-> (195, 105,90) 
+  for human eyes -- we are nonlinear recognisition 
   
+  transmittal page : with ink, without ink
+  (200,220,230): background 
+  (10,20,15),(0,2,2) : foreground with ink (black) 
+  (0,0,0); pitch dark 
+  page: fax/ 
+  binarize the page : 0: bac
+  dark red-> dark gray 
+  256- color gif : image 
+  >1k 
+  1pixel 1 byte 
+  1-> 3 
+  poor 
+ 3D-> 1D color -> binary image (math morphological operator ): object of interest 
+ gray scale is basically (R+G+B) /3 
+ low pass filtering : all three colors are born equal 
+ 
+ human eyes : green > red >> blue 
+ 
+ traffic light : red > green > yellow 
+ 
+ 11100000011111000000
+ fax 1000x800   800k 1Mbyte 
+ telephone: 56k : 5k 
+ 200 sec: 
+ 10 minutes to send one fax 
+ 1 transmittal page pixel : 24-bit 
+ 1 bit
+ 111111111111111111110000000000000000000000000000000
+ 10 1's : length of this run of 1's, length of run of 0's 
+ run-length encoding :
+ '1',20, '0', 45,98, 21, 100
+ lossless compression : (compression ratio is very impressive ) 
+ 
+ RLE : enabling alg to render fax machine possible (useable) in practice 
+ compressio n 
+ natural image/human face : lot of redundancies 
+ 200,203,199,198,201,20,21,25,195,197
+ difference pulse coding modulation (DPCM) 
+ 200,3, -4, -1, 3, 20, 1, 4, 195, 2
+ difference is of much smaller magnitude 
+ -16 to +16 
+ # of bits to represent diff : 5
+
+ 
+ 1 pixel -> 8 bits 
+  reduce size  
+ 
+ 
+ every pixel - 1 bit 
+ 
+ 1. binary stream, as is , impossible to transmit 
+ data redundancies : many zeros / ones are adjacent to each other to exploit this stat feature to reduce size drastically 
+ 
+ 
+ 
+ simple algorithm : totally change the fax industry 
+ long binary strem 
+ algo _ to reduce size 
+ fax 1000*800 : 800k 1 Mbyte 
+ telephone : 56k :5k 
+ 
+ 
+ OI: cancer, lung, heart, 
+ object detection
+ letter 
  
  
 
