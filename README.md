@@ -215,3 +215,34 @@ editing action: delete , insert, replace
 look at w11-- sure in midterm - legal and security responsibilities 
 
 
+
+------may 13th 
+final : once coding (PL) > 2 hr
+use PL (tell), understandble : comments , function/ variable names meaningful 
+testing - passive testing : by observations / code reading 
+active testing - by experimentation , mor eimportant 
+design test cases / expected results / compare notes 
+top-down testing - top level features till finally all basic/ leaf 
+higher level: drivers
+vs bottomup -testing - stub 
+
+which one is preffered : TD: based specifications 
+> 90% using one of these 2: 90% + vs BU: 10% - 
+1. overall feature / funcntion is more important than the local ones
+2. no/ little time to test all the low level features
+
+NASA: missed one, 
+
+BU: solidfooting 
+main {
+f(1)
+f(2)
+}
+f(2)
+
+
+
+
+
+
+
